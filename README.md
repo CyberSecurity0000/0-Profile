@@ -10,10 +10,11 @@ Documentando labs e projetos como **portfólio profissional**.
 - **Programação & Scripting:** Python, Bash, PowerShell (para automação de segurança)
 
 ## 🚀 Projetos em Destaque
-### Pentest Wi-Fi – Solyd Offensive Security
-- Teste de **segurança de redes sem fio**, análise de vulnerabilidades e execução de ataques éticos.  
-- **Ferramentas:** Aircrack-ng, Wireshark, Kali Linux  
-- **Objetivo:** identificar falhas e propor soluções para proteger redes Wi-Fi.
+### Pentest Wi‑Fi — Solyd Offensive Security
+**Resumo:** Avaliação autorizada em laboratório e cenários controlados para identificar falhas em redes Wi-Fi.  
+**Metodologia (alto nível):** reconhecimento passivo, análise de tráfego sanitizado, testes de força apenas em lab autorizado.  
+**Ferramentas:** Aircrack-ng · Wireshark · Kali Linux  
+**Resultados:** vulnerabilidades comuns detectadas e recomendações de mitigação (WPA3, 802.1X, segmentação de SSIDs).
 
 ### Laboratórios de Redes / Packet Tracer
 - Configuração de roteadores e switches: VLAN, NAT, DHCP, ACLs  
