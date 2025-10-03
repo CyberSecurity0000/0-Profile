@@ -1,7 +1,8 @@
 # Olá, eu sou o Diego! 👨‍💻
 
 ## 💼 Formação & Foco
-Engenheiro Mecânico de formação, com experiência prática em TI e **CyberSegurança**, incluindo **Pentest, Wi-Fi Pentesting, automação de scripts e análise de vulnerabilidades**. Documentando labs e projetos como **portfólio profissional**.
+Engenheiro Mecânico de formação, com experiência prática em TI e **CyberSegurança**, incluindo **Pentest, Wi-Fi Pentesting, automação de scripts e análise de vulnerabilidades**.  
+Documentando labs e projetos como **portfólio profissional**.
 
 ## 💻 Tecnologias & Ferramentas
 - **Segurança / Pentest:** Aircrack-ng, Wireshark, Nmap, Metasploit, Kali Linux  
@@ -29,11 +30,25 @@ Engenheiro Mecânico de formação, com experiência prática em TI e **CyberSeg
 > 🛠️ Scripts de automação para testes de vulnerabilidades
 
 ## 📫 Contato & Perfis
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6D00?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/CyberSecurity00000)  
-[![Pastebin](https://img.shields.io/badge/Pastebin-000000?style=for-the-badge&logo=pastebin)](https://pastebin.com/u/LightProgrammer00000)
+<p>
+  <a href="https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/p/CyberSecurity00000">
+    <img src="https://img.shields.io/badge/TryHackMe-FF6D00?style=for-the-badge&logo=tryhackme" alt="TryHackMe"/>
+  </a>
+  <a href="https://pastebin.com/u/LightProgrammer00000">
+    <img src="https://img.shields.io/badge/Pastebin-000000?style=for-the-badge&logo=pastebin" alt="Pastebin"/>
+  </a>
+</p>
 
-<!-- Estatísticas dinâmicas -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberSecurity0000&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity0000&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberSecurity0000&theme=radical)
+## 📊 Estatísticas
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberSecurity0000&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity0000&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSecurity0000&theme=radical" alt="GitHub Streak"/>
+</p>
