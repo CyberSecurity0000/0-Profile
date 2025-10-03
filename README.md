@@ -6,7 +6,7 @@ Profissional de **CyberSegurança e Redes**, com experiência em **Pentest, Wi-F
 ## 💻 Tecnologias & Ferramentas
 - **Segurança / Pentest**: Aircrack-ng, Wireshark, Nmap, Metasploit, Kali Linux  
 - **Redes & Infraestrutura**: VLAN, NAT, DHCP, roteadores/switches Cisco  
-- **Programação & Scripting**: Python, Bash, PowerShell (para automação e segurança)  
+- **Programação & Scripting**: Python, Bash, PowerShell (para automação e scripts de segurança)  
 
 ## 🚀 Projetos em Destaque
 ### Pentest Wi-Fi – Solyd Offensive Security
@@ -23,10 +23,10 @@ Profissional de **CyberSegurança e Redes**, com experiência em **Pentest, Wi-F
 [![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue)](https://www.esecurity.com.br)  
 [![IBSEC](https://img.shields.io/badge/Certificado_IBSEC-orange)](https://ibsec.com.br)
 
-## 📈 Estatísticas
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=lightprogrammer000&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lightprogrammer000&layout=compact&langs_count=100&theme=radical)  
-![GitHub Contribution](https://github-readme-streak-stats.herokuapp.com/?user=lightprogrammer000&theme=radical)
+## 📈 Próximos projetos
+> 🚀 Labs e write-ups de Pentest e Redes Wi-Fi em breve  
+> 📝 Configurações de roteadores e switches documentadas  
+> 🛠️ Scripts de automação para testes de vulnerabilidades
 
 ## 📫 Contato
 [LinkedIn](https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250) | 📧 [dltome12121@gmail.com](mailto:dltome12121@gmail.com)  
