@@ -33,3 +33,17 @@ Engenheiro Mecânico de formação, com experiência prática em TI e **CyberSeg
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6D00?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/CyberSecurity00000)  
 [![Pastebin](https://img.shields.io/badge/Pastebin-000000?style=for-the-badge&logo=pastebin)](https://pastebin.com/u/LightProgrammer00000)
 
+<!-- Badges & contato -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6D00?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/CyberSecurity00000)
+[![Pastebin](https://img.shields.io/badge/Pastebin-000000?style=for-the-badge&logo=pastebin)](https://pastebin.com/u/LightProgrammer00000)
+
+<!-- GitHub profile stats (atualiza sozinho quando você subir código) -->
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSecurity0000&show_icons=true&theme=radical)
+
+<!-- Top languages (vai refletir o que você upar) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity0000&layout=compact&theme=radical)
+
+<!-- Contribution streak (opcional) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberSecurity0000&theme=radical)
+
