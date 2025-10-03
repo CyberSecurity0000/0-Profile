@@ -8,7 +8,9 @@
 - **IT Technician with an emphasis on Java** 💻 ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)
 - **Penetration Testing** 🔐 ![Pentest](https://img.shields.io/badge/Penetration%20Testing-FF4E00?style=for-the-badge&logo=security)
 - **Wi-Fi Penetration Testing** 📡 ![Wi-Fi](https://img.shields.io/badge/Wi%2DFi%20Pentest-3498db?style=for-the-badge&logo=wifi)
-- <img src="https://tryhackme-badges.s3.amazonaws.com/darkprogrammer000.png" alt="Seu emblema de imagem" /> 
+- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4248947" style='border:none;'></iframe>
+- <img src="https://tryhackme-badges.s3.amazonaws.com/CyberSecurity00000.png" alt="Your Image Badge" />
+
 
 
 ## 💻 Tecnologias & Ferramentas
