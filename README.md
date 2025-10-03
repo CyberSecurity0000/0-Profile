@@ -32,3 +32,5 @@ Engenheiro Mecânico de formação, com experiência prática em TI e **CyberSeg
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6D00?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/CyberSecurity00000)  
 [![Pastebin](https://img.shields.io/badge/Pastebin-000000?style=for-the-badge&logo=pastebin)](https://pastebin.com/u/LightProgrammer00000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lightprogrammer000&layout=compact&theme=radical)
+
