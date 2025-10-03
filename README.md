@@ -4,9 +4,9 @@
 Profissional de **CyberSegurança e Redes**, com experiência em **Pentest, Wi-Fi Pentesting, automação de scripts e análise de vulnerabilidades**. Documentando labs e projetos práticos como portfólio.
 
 ## 💻 Tecnologias & Ferramentas
-- **Segurança / Pentest**: Aircrack-ng, Wireshark, Nmap, Metasploit, Kali Linux  
-- **Redes & Infraestrutura**: VLAN, NAT, DHCP, roteadores/switches Cisco  
-- **Programação & Scripting**: Python, Bash, PowerShell (para automação e scripts de segurança)  
+- **Segurança / Pentest:** Aircrack-ng, Wireshark, Nmap, Metasploit, Kali Linux  
+- **Redes & Infraestrutura:** VLAN, NAT, DHCP, roteadores/switches Cisco  
+- **Programação & Scripting:** Python, Bash, PowerShell (para automação e scripts de segurança)  
 
 ## 🚀 Projetos em Destaque
 ### Pentest Wi-Fi – Solyd Offensive Security
@@ -28,6 +28,7 @@ Profissional de **CyberSegurança e Redes**, com experiência em **Pentest, Wi-F
 > 📝 Configurações de roteadores e switches documentadas  
 > 🛠️ Scripts de automação para testes de vulnerabilidades
 
-## 📫 Contato
-[LinkedIn](https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250) | 📧 [dltome12121@gmail.com](mailto:dltome12121@gmail.com)  
-🌟 **Light Pastebin**: [https://pastebin.com/u/LightProgrammer000](https://pastebin.com/u/LightProgrammer000)
+## 📫 Contato & Perfis
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6D00?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/CyberSecurity00000)  
+[![Pastebin](https://img.shields.io/badge/Pastebin-000000?style=for-the-badge&logo=pastebin)](https://pastebin.com/u/LightProgrammer00000)
