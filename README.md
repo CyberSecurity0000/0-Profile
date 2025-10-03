@@ -1,7 +1,7 @@
 # Olá, eu sou o Diego! 👨‍💻
 
-## 💼 Foco Profissional
-Profissional de **CyberSegurança e Redes**, com experiência em **Pentest, Wi-Fi Pentesting, automação de scripts e análise de vulnerabilidades**. Documentando labs e projetos práticos como portfólio.
+## 💼 Formação & Foco
+Engenheiro Mecânico de formação, com experiência prática em TI e **CyberSegurança**, incluindo **Pentest, Wi-Fi Pentesting, automação de scripts e análise de vulnerabilidades**. Documentando labs e projetos como portfólio profissional.
 
 ## 💻 Tecnologias & Ferramentas
 - **Segurança / Pentest:** Aircrack-ng, Wireshark, Nmap, Metasploit, Kali Linux  
