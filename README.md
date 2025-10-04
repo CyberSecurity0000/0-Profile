@@ -7,8 +7,8 @@ Documentando labs e projetos como **portfólio profissional**, com foco em apren
 ## 💻 Tecnologias & Ferramentas
 - **Segurança / Pentest:** Aircrack-ng, Wireshark, Nmap, Metasploit, Kali Linux  
 - **Redes & Infraestrutura:** VLAN, NAT, DHCP, roteadores/switches Cisco  
-- **Programação & Scripting (voltados à segurança):** Python, Bash, PowerShell — automação, coleta e resposta  
-- **Linguagens aplicadas em segurança:** C, C++, C#, JavaScript, Java — análise de código, exploits e revisão segura
+- **Programação & Scripting (voltados à segurança):** Python, Bash
+- **Linguagens aplicadas em segurança:** C, C++, C#, JavaScript, Java
 
 ## 🚀 Projetos em Destaque
 ### Pentest Wi-Fi — Solyd Offensive Security
