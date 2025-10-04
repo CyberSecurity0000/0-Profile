@@ -1,16 +1,17 @@
 # Olá, eu sou o Diego! 👨‍💻
 
 ## 💼 Formação & Foco
-Engenheiro Mecânico de formação, com experiência prática em TI e **CyberSegurança**, incluindo **Pentest, Wi-Fi Pentesting, automação de scripts e análise de vulnerabilidades**.  
-Documentando labs e projetos como **portfólio profissional**.
+Engenheiro Mecânico e **Técnico em Informática com ênfase em Java**, com experiência prática em TI e **CyberSegurança**, incluindo **Pentest, Wi-Fi Pentesting, automação de scripts e análise de vulnerabilidades**.  
+Documentando labs e projetos como **portfólio profissional**, com foco em aprendizado contínuo, automação e exploração ética.
 
 ## 💻 Tecnologias & Ferramentas
 - **Segurança / Pentest:** Aircrack-ng, Wireshark, Nmap, Metasploit, Kali Linux  
 - **Redes & Infraestrutura:** VLAN, NAT, DHCP, roteadores/switches Cisco  
-- **Programação & Scripting:** Python, Bash, PowerShell (para automação de segurança)
+- **Programação & Scripting:** Python, Bash, PowerShell (para automação de segurança)  
+- **Linguagens adicionais:** C, C++, C#, JavaScript, Java
 
 ## 🚀 Projetos em Destaque
-### Pentest Wi‑Fi — Solyd Offensive Security
+### Pentest Wi-Fi — Solyd Offensive Security
 **Resumo:** Avaliação autorizada em laboratório e cenários controlados para identificar falhas em redes Wi-Fi.  
 **Metodologia (alto nível):** reconhecimento passivo, análise de tráfego sanitizado, testes de força apenas em lab autorizado.  
 **Ferramentas:** Aircrack-ng · Wireshark · Kali Linux  
