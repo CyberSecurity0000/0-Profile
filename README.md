@@ -56,11 +56,6 @@ Documentando labs e projetos como **portfólio profissional**, com foco em apren
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity0000&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
 </p>
 
-<!-- Tamanho dos programas (novo) -->
-<p align="left">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Subdomain-Scan','Recon-CLI','Payload-Tool'],datasets:[{label:'Tamanho (KB)',data:[1200,850,3400]}]}}" alt="Program Sizes"/>
-</p>
-
 <!-- Sequência de contribuições -->
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSecurity0000&theme=radical" alt="GitHub Streak"/>
