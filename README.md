@@ -48,17 +48,12 @@ Documentando labs e projetos como **portfólio profissional**, com foco em apren
 
 <!-- Estatísticas gerais do GitHub -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberSecurity0000&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberSecurity0000&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <!-- Linguagens mais usadas -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity0000&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
-</p>
-
-<!-- Tamanho/uso de cada programa -->
-<p align="left">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Subdomain-Scan','Recon-CLI','Payload-Tool'],datasets:[{label:'Tamanho (KB)',data:[1200,850,3400]}]}}" alt="Uso por Programa"/>
 </p>
 
 <!-- Sequência de contribuições -->
