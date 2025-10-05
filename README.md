@@ -7,7 +7,7 @@ Documentando labs e projetos como **portfólio profissional**, com foco em apren
 ## 💻 Tecnologias & Ferramentas
 - **Segurança / Pentest:** Aircrack-ng, Wireshark, Nmap, Metasploit, Kali Linux  
 - **Redes & Infraestrutura:** VLAN, NAT, DHCP, roteadores/switches Cisco  
-- **Programação & Scripting (voltados à segurança):** Python, Bash
+- **Programação & Scripting (voltados à segurança):** Python, Bash  
 - **Linguagens aplicadas em segurança:** C, C++, C#, JavaScript, Java
 
 ## 🚀 Projetos em Destaque
@@ -45,12 +45,14 @@ Documentando labs e projetos como **portfólio profissional**, com foco em apren
 </p>
 
 ## 📊 Estatísticas
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberSecurity0000&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity0000&layout=compact&theme=radical" alt="Top Languages"/>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity0000&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
 </p>
-<p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSecurity0000&theme=radical" alt="GitHub Streak"/>
 </p>
