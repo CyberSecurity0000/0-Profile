@@ -33,7 +33,7 @@ Documentando labs e projetos como **portfólio profissional**, com foco em apren
 
 ## 📫 Contato & Perfis
 
-<p align="center">
+<p align="left">
   <a href="https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
