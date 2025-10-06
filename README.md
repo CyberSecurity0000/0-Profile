@@ -46,18 +46,15 @@ Documentando labs e projetos como **portfólio profissional**, com foco em apren
 
 ## 📊 Estatísticas de Programação
 
-<!-- Estatísticas gerais do GitHub -->
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberSecurity0000&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
 </p>
 
-<!-- Linguagens mais usadas -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity0000&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity0000&langs_count=999&theme=radical" alt="Top Languages"/>
 </p>
 
-<!-- Sequência de contribuições -->
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSecurity0000&theme=radical" alt="GitHub Streak"/>
 </p>
 
