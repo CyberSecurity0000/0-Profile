@@ -32,17 +32,20 @@ Documentando labs e projetos como **portfólio profissional**, com foco em apren
 > 🛠️ Scripts de automação para testes de vulnerabilidades
 
 ## 📫 Contato & Perfis
-<p>
+
+<p align="center">
   <a href="https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/CyberSecurity0000">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://tryhackme.com/p/CyberSecurity00000">
     <img src="https://img.shields.io/badge/TryHackMe-FF6D00?style=for-the-badge&logo=tryhackme" alt="TryHackMe"/>
   </a>
-  <a href="https://pastebin.com/u/LightProgrammer00000">
-    <img src="https://img.shields.io/badge/Pastebin-000000?style=for-the-badge&logo=pastebin" alt="Pastebin"/>
-  </a>
 </p>
+
+---
 
 ## 📊 Estatísticas de Programação
 
