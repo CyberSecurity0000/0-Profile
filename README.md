@@ -24,7 +24,6 @@ Documentando labs e projetos como **portfólio profissional**, com foco em apren
 ## 🏆 Certificações
 [![Solyd Offensive Security](https://img.shields.io/badge/Certificado_Solyd_Offensive_Security-brightgreen)](https://www.solyd.com.br)  
 [![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue)](https://www.esecurity.com.br)  
-[![IBSEC](https://img.shields.io/badge/Certificado_IBSEC-orange)](https://ibsec.com.br)
 
 ## 📈 Próximos projetos
 > 🚀 Labs e write-ups de Pentest e Redes Wi-Fi em breve  
