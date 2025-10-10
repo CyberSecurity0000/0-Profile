@@ -33,11 +33,12 @@ Atualmente documentando **labs e projetos** como **portfólio profissional**, co
 
 ## 🏆 Certificações
 
-[![Solyd Offensive Security](https://img.shields.io/badge/Certificado_Solyd_Offensive_Security-brightgreen)](https://www.solyd.com.br)  
-🔗 https://solyd.com.br/ead/pentest/certificate/3UrweWWoV5/  
+[![Solyd Offensive Security](https://img.shields.io/badge/Certificado_Solyd_Offensive_Security-brightgreen)](https://solyd.com.br/ead/pentest/certificate/3UrweWWoV5/)  
+🔗 [Ver Certificado Solyd](https://solyd.com.br/ead/pentest/certificate/3UrweWWoV5/)
 
-[![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue)](https://www.esecurity.com.br)  
-🔗 https://ead.esecurity.com.br/mod/customcert/verify_certificate.php
+[![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue)](https://ead.esecurity.com.br/mod/customcert/verify_certificate.php)  
+🔗 [Ver Certificado ESecurity](https://ead.esecurity.com.br/mod/customcert/verify_certificate.php)
+
 ---
 
 ## 📈 Próximos Projetos
