@@ -37,7 +37,7 @@ Atualmente documentando **labs e projetos** como **portfólio profissional**, co
 🔗 https://solyd.com.br/ead/pentest/certificate/3UrweWWoV5/  
 
 [![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue)](https://www.esecurity.com.br)  
-
+🔗 https://ead.esecurity.com.br/mod/customcert/verify_certificate.php
 ---
 
 ## 📈 Próximos Projetos
